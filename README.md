@@ -4,21 +4,24 @@
 This is a simple command-line implementation of the classic Nim game written in Java. The game mechanics are as follows:
 
 <ul>
-<li>Initial Setup: Players can choose an initial number of toothpicks ranging from 20 to 30.</li>
-<li>Gameplay: Players A and B take turns to pick 1, 2, or 3 toothpicks from the pile.</li>
-<li>Objective: The player forced to take the last toothpick loses the game.</li>
-<li>Starting Player: Player A decides who plays first.</li>
-<li>Pile Size: Player B chooses the initial number of toothpicks.</li>
+✅Initial Setup: Players can choose an initial number of toothpicks ranging from 20 to 30.<br>
+✅Gameplay: Players A and B take turns to pick 1, 2, or 3 toothpicks from the pile.<br>
+✅Objective: The player forced to take the last toothpick loses the game.<br>
+✅Starting Player: Player A decides who plays first.<br>
+✅Pile Size: Player B chooses the initial number of toothpicks.<br>
 </ul>
 
-Technologies Used
-<ul>
-<li>Java</li>
-</ul>
+<h3><u>Technologies Used</u></h3>
+🔹 Java<br>
+
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/kusha2000/Game-Of-Nim/assets/127003267/9811d272-fb11-4854-8d5f-3cc6888e6a64)
+
+
+
+https://github.com/user-attachments/assets/fd64ab56-d909-4ea9-87f7-e18b69d639c3
+
 
 
 <br><br>
